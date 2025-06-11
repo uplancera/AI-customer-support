@@ -16,3 +16,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 013 | 2025-06-10T10:31:00 | add seed knowledge documents
 - 014 | 2025-06-10T14:38:00 | tune intent classifier
 - 015 | 2025-06-11T10:45:00 | tune sentiment classifier
+- 016 | 2025-06-11T14:52:00 | improve README setup notes
