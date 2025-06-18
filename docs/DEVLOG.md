@@ -26,3 +26,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 023 | 2025-06-17T10:41:00 | wire dashboard layout
 - 024 | 2025-06-17T14:48:00 | add ticket history view
 - 025 | 2025-06-18T10:55:00 | implement admin knowledge ingestion
+- 026 | 2025-06-18T14:02:00 | add ollama embedding client
