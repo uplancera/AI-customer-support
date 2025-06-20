@@ -30,3 +30,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 027 | 2025-06-19T10:09:00 | add ollama generation client
 - 028 | 2025-06-19T14:16:00 | improve fallback support answers
 - 029 | 2025-06-20T10:23:00 | define pgvector retrieval schema
+- 030 | 2025-06-20T14:30:00 | polish login page
