@@ -45,3 +45,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 042 | 2025-06-30T14:54:00 | add supabase auth flow
 - 043 | 2025-07-01T10:01:00 | wire dashboard layout
 - 044 | 2025-07-01T14:08:00 | add ticket history view
+- 045 | 2025-07-02T10:15:00 | implement admin knowledge ingestion
