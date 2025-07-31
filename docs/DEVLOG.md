@@ -74,3 +74,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 071 | 2025-07-28T10:17:00 | refine dashboard metrics
 - 072 | 2025-07-29T10:24:00 | connect ticket thread rendering
 - 073 | 2025-07-30T10:31:00 | add seed knowledge documents
+- 074 | 2025-07-31T10:38:00 | tune intent classifier
