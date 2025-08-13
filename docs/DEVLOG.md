@@ -83,3 +83,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 080 | 2025-08-08T10:20:00 | document vercel deployment notes
 - 081 | 2025-08-11T10:27:00 | bootstrap project shell
 - 082 | 2025-08-12T10:34:00 | add supabase auth flow
+- 083 | 2025-08-13T10:41:00 | wire dashboard layout
