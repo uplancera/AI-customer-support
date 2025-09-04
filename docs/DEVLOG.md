@@ -99,3 +99,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 096 | 2025-09-01T10:12:00 | improve README setup notes
 - 097 | 2025-09-02T10:19:00 | refactor support query helpers
 - 098 | 2025-09-03T10:26:00 | clean up styles
+- 099 | 2025-09-04T10:33:00 | add demo ticket fixtures
