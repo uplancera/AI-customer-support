@@ -105,3 +105,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 102 | 2025-09-09T10:54:00 | add supabase auth flow
 - 103 | 2025-09-10T10:01:00 | wire dashboard layout
 - 104 | 2025-09-11T10:08:00 | add ticket history view
+- 105 | 2025-09-12T10:15:00 | implement admin knowledge ingestion
