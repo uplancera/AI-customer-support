@@ -107,3 +107,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 104 | 2025-09-11T10:08:00 | add ticket history view
 - 105 | 2025-09-12T10:15:00 | implement admin knowledge ingestion
 - 106 | 2025-09-15T10:22:00 | add ollama embedding client
+- 107 | 2025-09-16T10:29:00 | add ollama generation client
