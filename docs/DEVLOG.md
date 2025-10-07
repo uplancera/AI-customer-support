@@ -122,3 +122,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 119 | 2025-10-02T10:53:00 | add demo ticket fixtures
 - 120 | 2025-10-03T10:00:00 | document vercel deployment notes
 - 121 | 2025-10-06T10:07:00 | bootstrap project shell
+- 122 | 2025-10-07T10:14:00 | add supabase auth flow
