@@ -129,3 +129,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 126 | 2025-10-13T10:42:00 | add ollama embedding client
 - 127 | 2025-10-14T10:49:00 | add ollama generation client
 - 128 | 2025-10-15T10:56:00 | improve fallback support answers
+- 129 | 2025-10-16T10:03:00 | define pgvector retrieval schema
