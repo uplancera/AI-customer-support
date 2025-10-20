@@ -131,3 +131,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 128 | 2025-10-15T10:56:00 | improve fallback support answers
 - 129 | 2025-10-16T10:03:00 | define pgvector retrieval schema
 - 130 | 2025-10-17T10:10:00 | polish login page
+- 131 | 2025-10-20T10:17:00 | refine dashboard metrics
