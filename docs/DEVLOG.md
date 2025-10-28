@@ -137,3 +137,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 134 | 2025-10-23T10:38:00 | tune intent classifier
 - 135 | 2025-10-24T10:45:00 | tune sentiment classifier
 - 136 | 2025-10-27T10:52:00 | improve README setup notes
+- 137 | 2025-10-28T10:59:00 | refactor support query helpers
