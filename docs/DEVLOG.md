@@ -140,3 +140,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 137 | 2025-10-28T10:59:00 | refactor support query helpers
 - 138 | 2025-10-29T10:06:00 | clean up styles
 - 139 | 2025-10-30T10:13:00 | add demo ticket fixtures
+- 140 | 2025-10-31T10:20:00 | document vercel deployment notes
