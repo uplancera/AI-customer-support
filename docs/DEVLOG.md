@@ -160,3 +160,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 157 | 2025-11-25T10:19:00 | refactor support query helpers
 - 158 | 2025-11-26T10:26:00 | clean up styles
 - 159 | 2025-11-27T10:33:00 | add demo ticket fixtures
+- 160 | 2025-11-28T10:40:00 | document vercel deployment notes
