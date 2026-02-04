@@ -208,3 +208,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 205 | 2026-01-30T10:55:00 | implement admin knowledge ingestion
 - 206 | 2026-02-02T10:02:00 | add ollama embedding client
 - 207 | 2026-02-03T10:09:00 | add ollama generation client
+- 208 | 2026-02-04T10:16:00 | improve fallback support answers
