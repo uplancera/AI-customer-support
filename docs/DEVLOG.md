@@ -220,3 +220,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 217 | 2026-02-17T10:19:00 | refactor support query helpers
 - 218 | 2026-02-18T10:26:00 | clean up styles
 - 219 | 2026-02-19T10:33:00 | add demo ticket fixtures
+- 220 | 2026-02-20T10:40:00 | document vercel deployment notes
