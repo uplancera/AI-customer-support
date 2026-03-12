@@ -234,3 +234,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 231 | 2026-03-09T10:57:00 | refine dashboard metrics
 - 232 | 2026-03-10T10:04:00 | connect ticket thread rendering
 - 233 | 2026-03-11T10:11:00 | add seed knowledge documents
+- 234 | 2026-03-12T10:18:00 | tune intent classifier
