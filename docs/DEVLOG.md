@@ -239,3 +239,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 236 | 2026-03-16T10:32:00 | improve README setup notes
 - 237 | 2026-03-17T10:39:00 | refactor support query helpers
 - 238 | 2026-03-18T10:46:00 | clean up styles
+- 239 | 2026-03-19T10:53:00 | add demo ticket fixtures
