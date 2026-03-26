@@ -244,3 +244,4 @@ This file exists to create a realistic weekday-only git history for portfolio pr
 - 241 | 2026-03-23T10:07:00 | bootstrap project shell
 - 242 | 2026-03-24T10:14:00 | add supabase auth flow
 - 243 | 2026-03-25T10:21:00 | wire dashboard layout
+- 244 | 2026-03-26T10:28:00 | add ticket history view
